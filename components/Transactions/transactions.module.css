@@ -1,0 +1,10 @@
+.list li:last-child {
+    border: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.actions{
+    display: flex;
+    justify-content: center;
+}
